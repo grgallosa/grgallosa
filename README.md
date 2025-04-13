@@ -1,6 +1,6 @@
-# Hi there, I'm Glen Ryan Gallosa!
+# Hi there, I'm Glen Ryan Gallosa! 👋
 
-### Aspiring Full-Stack Developer | Computer Science Student
+### 🧑‍💻Aspiring Full-Stack Developer | Computer Science Student
 
 I'm currently learning **HTML**, **CSS**, and **JavaScript** as I work toward becoming a full-stack developer. I'm passionate about building web applications that are simple, useful, and well-designed. I enjoy learning new technologies and improving my skills one project at a time.
 
