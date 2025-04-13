@@ -29,8 +29,8 @@ I'm currently learning **HTML**, **CSS**, and **JavaScript** as I work toward be
 ---
 
 ### 📫 Contact
-- **Email**: gallosaglenryan@gmail.com  
-- **Facebook**: [facebook.com/glenryangallosa](https://facebook.com/glenryangallosa)
+- **Email**: gr.gallosa@gmail.com  
+- **Facebook**: [facebook.com/grgallosa](https://facebook.com/grgallosa)
 
 ---
 
